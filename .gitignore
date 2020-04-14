@@ -106,3 +106,4 @@ temp/
 
 .vscode-test
 out
+*.vsix

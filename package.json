@@ -2,7 +2,7 @@
     "name": "ymd-progress",
     "version": "0.1.3",
     "description": "",
-    "publisher": "haroldknowlden",
+    "publisher": "chaseknowlden",
     "icon": "icon.png",
     "main": "./out/extension.js",
     "contributes": {
